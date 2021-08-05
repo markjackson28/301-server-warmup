@@ -1,0 +1,24 @@
+{
+  "name": "301-server-warmup",
+  "version": "1.0.0",
+  "description": "If repetition is how you learn, do this build-a-server warmup a few times a week.  Next thing you know, you'll be able to build an express server from memory in minutes.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkgallaway/301-server-warmup.git"
+  },
+  "author": "Ryan Gallaway",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkgallaway/301-server-warmup/issues"
+  },
+  "homepage": "https://github.com/rkgallaway/301-server-warmup#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
