@@ -3,7 +3,7 @@
 > multiple people have asked for different code exposure options and a more varied way to learn.  In this Warmup, recommendation is that you repetetively build out a basic express server.  Play around with this. Strengthen Yourself. Build on your existing skills.
 
 ## To Setup Locally
-- If you want to run this code and start the server run the following steps
+- If you want to run this code and start the server complete the following steps
 
 ```
 git clone https://github.com/rkgallaway/301-server-warmup.git
